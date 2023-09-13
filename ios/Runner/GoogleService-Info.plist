@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>160183036247-v3md5a4jf342b2t3av45skm4jtjaecpu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.160183036247-v3md5a4jf342b2t3av45skm4jtjaecpu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>160183036247-0rnjd5a027c0o20frl1ivomjjklq0oe0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyyAqjPjgIHMZFShkuedZz9h4eqbZs2YM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>160183036247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.askeeb.nazikdriver</string>
+	<key>PROJECT_ID</key>
+	<string>nazik-389319</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nazik-389319.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:160183036247:ios:24c11d46a30b2769007612</string>
+	<key>DATABASE_URL</key>
+	<string>https://nazik-389319-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
